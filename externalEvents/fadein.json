@@ -1,0 +1,21 @@
+{
+  "associatedLayout": "Level 2",
+  "lastChangeTimeStamp": 0,
+  "name": "FadeIn",
+  "events": [
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "DepartScene"
+          },
+          "parameters": [
+            ""
+          ]
+        }
+      ],
+      "actions": []
+    }
+  ]
+}
